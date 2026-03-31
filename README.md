@@ -136,8 +136,6 @@ Although predictions may not be perfectly accurate due to real-world variations,
 
 ---
 
-## 👨‍💻 Author
-**Varun Prajapati**
 
 ---
 
